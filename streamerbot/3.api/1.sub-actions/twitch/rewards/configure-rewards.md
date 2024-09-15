@@ -1,6 +1,10 @@
 # Configure Rewards
 Enable, disable and pause multiple rewards.
 
+::tip
+All rewards must have been created through Streamer.bot (owned by your bot) in order to configure them.
+::
+
 ## Parameters
 ### `Disable not configured rewards`
 Checking this box will make any reward in the `Not Configured` group disabled at the time of execution.
